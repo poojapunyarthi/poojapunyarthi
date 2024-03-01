@@ -5,7 +5,7 @@ About me <br>
 
 👀 I’m interested in Web Development & Software Testing <br>
 📚 I am currently learning Web Development <br>
-🎯 Goal to become QA Engineer <br>
+🎯 Goal to become Web Developer <br>
 
 
 <!---
