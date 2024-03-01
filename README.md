@@ -1,4 +1,4 @@
-👋 Hey, I’m Pooja <br>
+# Hey👋🏻 I’m Pooja <br>
 I'm a Graduate Information Systems student 👩‍🎓 at Eastern Michigan University.
 
 About me <br>
