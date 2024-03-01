@@ -1,10 +1,11 @@
 👋 Hey, I’m Pooja 
 I'm a Graduate Information Systems student at Eastern Michigan University.
 
+About me
 
-👀 I’m interested in Software Testing
+👀 I’m interested in Web Development & Software Testing
 📚 I currently learning Web Development
-
+🎯 Goal to become QA Engineer
 
 
 <!---
