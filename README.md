@@ -1,6 +1,6 @@
 👋 Hey, I’m Pooja <br>
 I'm a Graduate Information Systems student at Eastern Michigan University.
-
+<hr>
 About me
 
 👀 I’m interested in Web Development & Software Testing
