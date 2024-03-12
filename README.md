@@ -1,5 +1,9 @@
 # Hey👋🏻 I’m Pooja <br>
-I'm a Graduate Information Systems student 👩‍🎓 at Eastern Michigan University.
+
+👩‍🎓 Bachelor of Computer Engineering - University Of Pune, India <br>
+
+👩‍🎓 Master of Science  Information Systems - Eastern Michigan University, United States 
+
 
 
 # About me <br>
