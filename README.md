@@ -5,7 +5,6 @@
 👩‍🎓 Master of Science  Information Systems - Eastern Michigan University, United States 
 
 
-
 # About me <br>
 
 📚 I am currently learning Web Development & Python <br>
