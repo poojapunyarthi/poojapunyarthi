@@ -11,7 +11,7 @@
 🎯 Goal to become Web Developer <br>
 
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Code with</h2>
 
 ###
 
