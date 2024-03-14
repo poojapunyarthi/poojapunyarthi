@@ -7,7 +7,7 @@
 
 # About me <br>
 
-📚 I am currently learning Web Development & Python <br>
+📚 Learning Web Development & Python <br>
 🎯 Goal to become Web Developer <br>
 
 
