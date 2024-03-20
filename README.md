@@ -1,9 +1,9 @@
 # Hey👋🏻 I’m Pooja <br>
 
 
-# Education <br>
-👩‍🎓 Bachelor of Computer Engineering - University Of Pune, India 
-👩‍🎓 Master of Science  Information Systems - Eastern Michigan University, United States 
+# Education 👩‍🎓<br>
+Bachelor of Computer Engineering - India <br>
+Master of Science  Information Systems - Eastern Michigan University, United States 
 
 
 # About me <br>
