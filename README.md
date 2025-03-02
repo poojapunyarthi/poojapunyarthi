@@ -1,7 +1,5 @@
-# Hey👋🏻 I’m Pooja <br>
+# Hey I’m Pooja <br>
 
-
-# Education 👩‍🎓<br>
 Bachelor of Computer Engineering - India <br>
 Master of Science  Information Systems - Eastern Michigan University, United States 
 
