@@ -6,10 +6,7 @@ Bachelor of Computer Engineering - India <br>
 Master of Science  Information Systems - Eastern Michigan University, United States 
 
 
-# About me <br>
 
-📚 Learning Web Development & Python <br>
-🎯 Goal to become Web Developer <br>
 
 
 <h2 align="left">I Code with</h2>
